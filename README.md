@@ -1,4 +1,4 @@
-# PICT ACM Alumnis
+# PICT ACM Alumni
 
 ### 2015
 * [Saurabh Kulkarni](https://www.linkedin.com/in/saurabh-kulkarni-8a759b27/)
