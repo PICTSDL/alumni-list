@@ -26,8 +26,11 @@
 * [Sarthak Munshi](https://www.linkedin.com/in/sarum/)
 <hr>
 
-### 2016
+### 2018
+* [Shlok Gilda](https://www.linkedin.com/in/shlok-gilda/)
+* [Pallavi Bansal](https://www.linkedin.com/in/pallavi-bansal-13ba7615a/)
+* [Akshay Patel](https://www.linkedin.com/in/akshay-patel-23249210b/)
+* [Chintan Soni](https://www.linkedin.com/in/chintan-soni-73119a100/)
+* [Rajvardhan Oak](https://www.linkedin.com/in/rvoak/)
+* [Suraj Bhor](https://www.linkedin.com/in/suraj-bhor-61696224/)
 
-<hr>
-
-### 2017
