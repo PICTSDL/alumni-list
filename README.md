@@ -1,6 +1,6 @@
 # PICT ACM Alumni
 
-#List of all alumnis who were members of the chapter
+# List of all alumnis who were members of the Chapter
 
 ### 2015
 * [Saurabh Kulkarni](https://www.linkedin.com/in/saurabh-kulkarni-8a759b27/)
